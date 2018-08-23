@@ -1,0 +1,16 @@
+block big 500 250
+block big 584 23
+block big 789 98
+block big 654 489
+block big 1400 800
+block small 232 654
+block small 700 632
+block small 965 200
+block small 400 89
+block small 200 100
+block medium 400 100
+block medium 987 654
+block medium 654 523
+block medium 123 500
+block medium 356 589
+vertical 4 small 500 500
